@@ -6,3 +6,5 @@ class helloworld {
     System.out.println("Hello World!");
   }
 }
+
+I like Star Wars.

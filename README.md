@@ -8,3 +8,4 @@ class helloworld {
 }
 
 I like Star Wars.
+I like sushi.
